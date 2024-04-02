@@ -28,3 +28,9 @@ $ jupyter notebook rescale_htc_tutorial.ipynb
 ```
 
 ![](README.assets/htc_tutorial_notebook.gif)
+
+## About the author and Rescale
+
+[Rescale™](https://rescale.com) is a technology company that builds cloud software and services that enable organizations of every size to deliver engineering and scientific breakthroughs that enrich humanity.
+
+[Bartek Dobrzelecki](https://linkedin.com/in/bardobrze) is a Senior Customer Success Engineer at Rescale with a background in High Performance Computing and Software Engineering. He is always keen to share his knowledge, demystify technology and democratize computational thinking. He strongly believes that no technology should be indistinguishable from magic.

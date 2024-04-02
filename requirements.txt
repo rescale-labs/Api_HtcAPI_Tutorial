@@ -1,0 +1,8 @@
+ipykernel
+notebook
+requests
+pyjwt
+boto3
+pandas
+plotly
+rescale-htc-storage
